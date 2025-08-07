@@ -1,0 +1,14 @@
+{
+  "name": "spreadchain",
+  "version": "1.0.0",
+  "description": "Implement a backend API that returns a list of IP addresses, optionally filtered by a search query param.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
